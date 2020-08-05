@@ -1,8 +1,7 @@
 ## Welcome to un\_kn0wn's Blog
 
-You can use the [editor on GitHub](https://github.com/UN1337KN0WN/un_kn0wn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It's my blog where i write about the Topic Security in every way possible. Appreciate that you're here.
+You will find my github repo on here..[My_Repo](https://github.com/UN1337KN0WN/).
 
 ### Markdown
 
