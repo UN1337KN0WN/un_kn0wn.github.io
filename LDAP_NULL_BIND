@@ -1,0 +1,16 @@
+First and foremost i hope YOU the reader is healthy and well. Specially at this time.
+
+So shau we GIF 
+
+So the other day i coe across the blog of n00py -> Shout out to you mate :-) and read about the vuln
+LDAP Null Bind. I digit deeper and try to find the same vulnerablillty on high value target. 
+
+In my search for LDAP Null bind i used beta.shodan.io and a premium account. Pretty Quick through shodan i
+could identify a number of open LDAP Server. Next i though i need proof to make sure that the
+specific server is:
+
+    1. Accessiblity ?
+    2. Can view the entire LDAP Entries ?
+    3. Can i identify who is the owner ?
+
+
